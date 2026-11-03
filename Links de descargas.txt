@@ -1,4 +1,0 @@
-Node.js https://nodejs.org
-PostgreSQL https://www.postgresql.org/download
-Opcion 1: Aiven
-Opcion 2: Supabase
